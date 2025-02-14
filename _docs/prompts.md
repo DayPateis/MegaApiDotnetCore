@@ -1,4 +1,4 @@
-contexto:
+# Contexto:
 Este projeto é um projeto de uma api feito em dotnet, para listar os dados dos bosses de megaman, o objetivo principal é ser um backend que fornece jsons no formato abaixo:
 
 ```
@@ -101,9 +101,9 @@ obj
 Properties
 Services
 appsettings.Development.json
-appsettings.json  
+appsettings.json
 global.json
-MegamanApi.csproj  
+MegamanApi.csproj
 MegamanApi.sln
 Program.cs
 Startup.cs
